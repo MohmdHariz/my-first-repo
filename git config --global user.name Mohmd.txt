@@ -1,0 +1,15 @@
+git config --global user.name "MohmdHariz"
+git config --global user.email "harizptb@gmail.com"
+
+
+
+------------
+git status
+git add --all
+git commit -m ""
+git push -u origin main
+git pull
+git clone url
+
+git chechout -b <branch name>
+

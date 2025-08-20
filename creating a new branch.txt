@@ -1,0 +1,10 @@
+creating a new branch 
+
+--------
+git checkout -b <branch name>(add branch)
+
+git branch (show the added branch)
+
+git push -u origin <the new added branch name>
+ 
+git checkout <branch name>(for swiching the branch)
